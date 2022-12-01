@@ -13,7 +13,6 @@
 
   - [Overview](/docs/{{version}}/products)
   - [Payment Settings](/docs/{{version}}/products#product-payment-settings)
-  - [Merchants](/docs/{{version}}/products#product-merchants)
   - [Pricing](/docs/{{version}}/products#product-pricing)
   - [Coupons](/docs/{{version}}/products#product-coupons)
   - [Testing](/docs/{{version}}/products#product-testing)
