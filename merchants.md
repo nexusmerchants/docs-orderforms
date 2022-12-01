@@ -6,4 +6,4 @@
 
 ## Supported Merchants
 
-Coming soon.
+🚧 Work in progress.
