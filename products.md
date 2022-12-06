@@ -40,6 +40,11 @@ Once you added one or more merchant(s) to your outlet, you can enable them by to
 
 ## Testing
 
+If you use Stripe as your product merchant we will automatically switch to Stripe's test mode.
+
+> **Warning**  
+> **Any other merchants will incur a fee charge even in test mode unless you use test credentials for your merchant!**
+
 You can toggle testing on & off at any time using the `Status` bar to the top right:
 
 <img class="my-4" width="261" height="48" src="https://raw.githubusercontent.com/nexusmerchants/docs-orderforms/2.x/assets/images/status-switch.png?raw=true" alt="Status Switch" />

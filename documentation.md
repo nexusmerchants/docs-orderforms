@@ -20,7 +20,16 @@
 - ## Merchants
 
   - [Overview](/docs/{{version}}/merchants)
+  - [Stripe](/docs/{{version}}/merchant-stripe)
+  - [Opayo Pi (SagePay)](/docs/{{version}}/merchant-opayopi)
+  - [Braintree](/docs/{{version}}/merchant-braintree)
+  - [Moneris](/docs/{{version}}/merchant-moneris)
+  - [Payeezy](/docs/{{version}}/merchant-payeezy)
+  - [Bambora](/docs/{{version}}/merchant-bambora)
 
 - ## Integrations
 
   - [Overview](/docs/{{version}}/integrations)
+  - [Infusionsoft](/docs/{{version}}/integration-infusionsoft)
+  - [Google Sheets](/docs/{{version}}/integration-googlesheets)
+  - [Zapier](/docs/{{version}}/integration-zapier)
