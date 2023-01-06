@@ -43,7 +43,7 @@ Once you added one or more merchant(s) to your outlet, you can enable them by to
 If you use Stripe as your product merchant we will automatically switch to Stripe's test mode.
 
 > **Warning**  
-> **Any other merchants will incur a fee charge even in test mode unless you use test credentials for your merchant!**
+> **Any merchants other than Stripe will incur a fee charge even in test mode since we are unable to determine the mode at the merchant level!**
 
 You can toggle testing on & off at any time using the `Status` bar to the top right:
 
