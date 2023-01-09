@@ -28,13 +28,13 @@ Once you added one or more merchant(s) to your outlet, you can enable them by to
 
 ## Pricing
 
-🚧 Work in progress.
+🚧 We are working on this part of the documentation.
 
 <a name="product-coupons"></a>
 
 ### Coupons
 
-🚧 Work in progress.
+🚧 We are working on this part of the documentation.
 
 <a name="product-testing"></a>
 

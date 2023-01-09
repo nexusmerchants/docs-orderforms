@@ -1,3 +1,3 @@
 # Payeezy
 
-🚧 Work in progress.
+🚧 We are working on this part of the documentation.
