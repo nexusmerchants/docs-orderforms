@@ -30,6 +30,7 @@
 - ## Integrations
 
   - [Overview](/docs/{{version}}/integrations)
+  - [Pabbly](/docs/{{version}}/integration-pabbly)
   - [Infusionsoft](/docs/{{version}}/integration-infusionsoft)
   - [Google Sheets](/docs/{{version}}/integration-googlesheets)
   - [Zapier](/docs/{{version}}/integration-zapier)
