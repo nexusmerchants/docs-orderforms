@@ -4,7 +4,7 @@
 
 <a name="how-to"></a>
 
-## How to connect Pabbly to Orderforms
+## How to connect Pabbly to OrderForms
 
 - Navigate to https://app.orderforms.com/login and sign in using email address support@pabbly.com and your test account password
 - Navigate to https://app.orderforms.com/settings/merchants and connect a merchant
