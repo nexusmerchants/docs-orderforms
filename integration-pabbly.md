@@ -1,8 +1,8 @@
 # Pabbly
 
-- [How To](#how-to)
+- [Connect Pabbly to OrderForms](#connect)
 
-<a name="how-to"></a>
+<a name="connect"></a>
 
 ## How to connect Pabbly to OrderForms
 
