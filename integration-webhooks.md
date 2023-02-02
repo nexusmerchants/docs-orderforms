@@ -23,7 +23,7 @@ Example of a full order data payload:
     "currency": "usd",
     "status": "succeeded",
     "timestamp": 1672807227,
-    "created_at": "2023-01-04 04:40:27",
+    "created_at": "2023-01-04T10:22:24+00:00",
     "product":
     {
         "uuid": "3d319e29-250e-4972-8d95-837396b8xxxx",
@@ -87,7 +87,7 @@ Example of a order data payload:
     "currency": "usd",
     "status": "succeeded",
     "timestamp": 1672807227,
-    "created_at": "2023-01-04 04:40:27",
+    "created_at": "2023-01-04T10:22:24+00:00",
     "product":
     {
         "uuid": "3d319e29-250e-4972-8d95-837396b8xxxx",
@@ -143,6 +143,6 @@ Example of a customer data payload:
     "shipping_postal_code": null,
     "shipping_country": null
     "timestamp": 1672807227,
-    "created_at": "2023-01-04 04:40:27"
+    "created_at": "2023-01-04T10:22:24+00:00"
 }
 </code></pre>
