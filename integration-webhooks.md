@@ -1,19 +1,20 @@
 # Webhooks
 
-- [Full Order Data](#full-order-data)
+- [Order & Customer Data](#full-order-data)
 - [Order Data](#order-data)
 - [Customer Data](#customer-data)
 
 <a name="introduction"></a>
+
 ## Introduction
 
 Webhooks allow you to send order and/or customer data to a specified URL.
 
 <a name="full-order-data"></a>
 
-## Full Order Data
+## Order & Customer Data
 
-Example of a full order data payload:
+Example of a complete order data payload:
 
 <pre class="language-json"><code style="padding:0 1rem">
 {
